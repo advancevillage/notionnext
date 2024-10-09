@@ -189,7 +189,7 @@ const BLOG = {
   // Mermaid 图表CDN
   MERMAID_CDN:
     process.env.NEXT_PUBLIC_MERMAID_CDN ||
-    'https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.1/mermaid.min.js', // CDN
+    'https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.3.0/mermaid.min.js', // CDN
   // QRCodeCDN
   QR_CODE_CDN:
     process.env.NEXT_PUBLIC_QR_CODE_CDN ||
